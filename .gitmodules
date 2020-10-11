@@ -7,3 +7,12 @@
 [submodule "Quake"]
 	path = Quake
 	url = https://github.com/MaddTheSane/Quake.git
+[submodule "Quake2-Xatrix"]
+	path = Quake2-Xatrix
+	url = https://github.com/MaddTheSane/Quake2-Xatrix.git
+[submodule "Quake2-Rogue"]
+	path = Quake2-Rogue
+	url = https://github.com/MaddTheSane/Quake2-Rogue.git
+[submodule "Quake2-Action"]
+	path = Quake2-Action
+	url = https://github.com/MaddTheSane/Quake2-Action.git
