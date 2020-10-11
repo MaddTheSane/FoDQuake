@@ -1,0 +1,7 @@
+[submodule "FDFramework"]
+	path = FDFramework
+	url = https://github.com/MaddTheSane/FDFramework.git
+
+[submodule "Quake2"]
+	path = Quake2
+	url = https://github.com/MaddTheSane/Quake2.git
