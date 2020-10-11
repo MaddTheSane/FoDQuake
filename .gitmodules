@@ -16,3 +16,6 @@
 [submodule "Quake2-Action"]
 	path = Quake2-Action
 	url = https://github.com/MaddTheSane/Quake2-Action.git
+[submodule "TenebraeQuake"]
+	path = TenebraeQuake
+	url = https://github.com/MaddTheSane/TenebraeQuake.git
