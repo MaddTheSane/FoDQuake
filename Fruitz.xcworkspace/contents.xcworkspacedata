@@ -17,6 +17,9 @@
       location = "group:Quake2-Xatrix/macosx/XatrixQuake2.xcodeproj">
    </FileRef>
    <FileRef
+      location = "group:Quake2-Zaero/macosx/ZaeroQuake2.xcodeproj">
+   </FileRef>
+   <FileRef
       location = "group:FDFramework/FruitzOfDojo.xcodeproj">
    </FileRef>
 </Workspace>
